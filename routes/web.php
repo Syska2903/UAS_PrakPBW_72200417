@@ -15,10 +15,7 @@ Route::get('/cek', function () {
 });
 
 Route::middleware(['auth'])->group(function () {
-    
-});
-
-// HOME
+    // HOME
 Route::get('/home', function (){
     return view('home');
 });
@@ -49,6 +46,8 @@ Route::get('/user/editUser/{id}', 'AuthController@editUser');
 Route::put('/user/updateUser/{id}', 'AuthController@updateUser');
 Route::get('/user/hapusUser/{id}', 'AuthController@hapusUser');
 Route::get('/logout', 'AuthController@logout');
+
+});
 
 Route::get('/login', 'AuthController@login')->middleware('guest')->name('login');
 Route::post('user/cekLogin', 'AuthController@cekLogin')->middleware('guest');
