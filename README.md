@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
-<a href="https://sfmblog.000webhostapp.com/login"></a>
+<a href="https://sfmblog.000webhostapp.com/login"> Link Hosting </a>
 </p>
 
 ## Ujian Akhir Semester Praktikum Pemrograman Berbasis Web
