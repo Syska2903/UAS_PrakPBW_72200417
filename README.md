@@ -10,14 +10,10 @@
 ## Ujian Akhir Semester Praktikum Pemrograman Berbasis Web
 
 NIM     : 72200417
-
 Nama    : Syska Finalia Moreng
 
 Dalam project Ujian Akhir Semester Praktikum Pemrograman Berbasis Web ini dapat menampilkan fitur-fitur sebagai berikut:
-- HOME (Berisi tentang Profil Kampus dan Prestasi Kampus)
-- DOSEN (Sudah dilengkapi dengan metode CRUD)
-- MAHASISWA (Sudah dilengkapi dengan metode CRUD)
-- DATA USER (Sudah dilengkapi dengan metode CRUD)
-- LOGIN (Sudah menggunakan Middleware)
-- LOGOUT (Sudah menggunakan alert untuk logout)
+- LOGIN
+- 
 
+## L
