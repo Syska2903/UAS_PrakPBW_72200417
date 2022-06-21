@@ -12,6 +12,11 @@
 NIM     : 72200417
 Nama    : Syska Finalia Moreng
 
-
+Dalam project Ujian Akhir Semester Praktikum Pemrograman Berbasis Web ini dapat menampilkan fitur-fitur sebagai berikut:
+- HOME
+- DOSEN (Sudah dilengkapi dengan metode CRUD)
+- MAHASISWA (Sudah dilengkapi dengan metode CRUD)
+- USER (Sudah dilengkapi dengan metode CRUD)
+- LOGIN
 
 
